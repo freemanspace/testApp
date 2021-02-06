@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testApp</string>
+    <string name="text_digits">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_.@#$%^!</string>
+</resources>

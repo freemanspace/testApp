@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--MyEditText-->
+    <attr name="iconLeft" format="reference"/>
+    <attr name="iconRight" format="reference"/>
+    <declare-styleable name="MyEditText">
+        <attr name="iconLeft"/>
+        <attr name="iconRight"/>
+    </declare-styleable>
+
+</resources>
